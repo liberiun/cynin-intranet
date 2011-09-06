@@ -53,7 +53,9 @@ Mumbai-400064, India
 
 
 <div metal:fill-slot="auth_slot"
-     tal:define="email_from_address portal/email_from_address">
+     tal:define="email_from_address portal/email_from_address;
+				 member context/@@plone_portal_state/member;
+                 isAnon context/@@plone_portal_state/anonymous">
     <tal:macro metal:use-macro="here/login_form/macros/loginboxcontainer">
             <tal:overridemacro metal:fill-slot="loginmainarea">
 		<fieldset class="contentheaderlabel"><legend i18n:translate="heading_contact_form">Contact Administration Staff</legend></fieldset>

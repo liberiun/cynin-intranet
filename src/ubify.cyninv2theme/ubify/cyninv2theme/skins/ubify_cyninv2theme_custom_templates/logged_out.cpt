@@ -61,6 +61,7 @@ Mumbai-400064, India
                    ac_name auth/name_cookie|string:__ac_name;
                    ac_password auth/pw_cookie|string:__ac_password;
                    ac_persist auth/persist_cookie|nothing;
+                   isAnon context/@@plone_portal_state/anonymous;
                    login_name python:request.get('login_name', request.get(ac_name, ''));">
 <tal:reallyloggedout condition="isAnon">
 	    <metal:login use-macro="here/login_form/macros/login">
