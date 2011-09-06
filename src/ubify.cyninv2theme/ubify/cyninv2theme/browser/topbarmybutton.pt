@@ -120,8 +120,14 @@ Mumbai-400064, India
                 <tal:recentitems>
                     <div class="cluetiprecentitems" >
                         <tal:recentitems tal:repeat="obj recent">
-                            <a tal:define="item obj/getObject;ptype item/portal_type;ptobj python:context.portal_types[ptype];itemurl item/absolute_url;displayTitle obj/Title;"
-                               tal:attributes="href string:${itemurl}/view;title displayTitle" class="normallink cluetiprowheader">
+                            <a tal:define="item obj/getObject;
+										   ptype item/portal_type;
+										   ptobj python:context.portal_types[ptype];
+										   itemurl item/absolute_url;
+										   displayTitle obj/Title;"
+                               tal:attributes="href string:${itemurl}/view;title displayTitle"
+ 							   tal:content="item/title"
+							   class="normallink cluetiprowheader">
                                 <img tal:attributes="src ptobj/content_icon" /><tal:linktext tal:replace="displayTitle" />
                             </a>
                         </tal:recentitems>
