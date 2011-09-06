@@ -58,7 +58,8 @@ Mumbai-400064, India
 </tal:block>
 
 <div metal:fill-slot="main">
-  <div tal:condition="not:isAnon">
+  <div  tal:define="isAnon scontext/@@plone_portal_state/anonymous"
+		tal:condition="not:isAnon">
     <div tal:define="came_from request/came_from|nothing;
                      initial_login request/initial_login|nothing;
                      js_enabled python:request.get('js_enabled','1')!='0';">
