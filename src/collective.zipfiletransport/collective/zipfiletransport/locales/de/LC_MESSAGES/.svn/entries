@@ -1,0 +1,54 @@
+8
+
+dir
+244097
+https://svn.plone.org/svn/collective/collective.zipfiletransport/trunk/collective/zipfiletransport/locales/de/LC_MESSAGES
+https://svn.plone.org/svn/collective
+
+
+
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+db7f04ef-aaf3-0310-a811-c281ed44c4ad
+
+ZipFileTransport.mo
+file
+
+
+
+
+2011-09-02T20:40:24.000000Z
+59749d1f8adbd29552992f181a5e0369
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+has-props
+
+ZipFileTransport.po
+file
+
+
+
+
+2011-09-02T20:40:24.000000Z
+9427640cf7164c6e02cdf18c63c467de
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+has-props
+

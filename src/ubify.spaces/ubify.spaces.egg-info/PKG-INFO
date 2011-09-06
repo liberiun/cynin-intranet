@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: ubify.spaces
+Version: 0.1dev
+Summary: Provides the Ubify Spaces content type
+Home-page: http://www.cynapse.com
+Author: Cynapse
+Author-email: support@cynapse.com
+License: GPL
+Description: Provides the Ubify Spaces content type for adding Spaces which can contain team members and have autonomous security and control, separ
+Keywords: ubify spaces
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Framework :: Zope2
+Classifier: Framework :: Zope3
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

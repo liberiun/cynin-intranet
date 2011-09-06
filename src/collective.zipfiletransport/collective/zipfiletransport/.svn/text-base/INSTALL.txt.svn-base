@@ -1,0 +1,41 @@
+=========================================
+ZipFileTransport 2.2.2-final Installation
+=========================================
+
+-------------------------
+Installation Instructions
+-------------------------
+
+Modify Buildout
+===============
+
+Add the following to your buildout.cfg:
+
+[buildout]
+...
+eggs =
+    collective.zipfiletransport
+
+[instance]
+...
+zcml =
+    collective.zipfiletransport
+
+Rerun buildout, and start (restart) Zope.
+
+
+Installation
+============
+
+collective.zipfiletransport can be installed via either an Extension Profile or the QuickInstaller.
+  
+To add this Product to an existing site:
+  * Click on the site setup link
+  * Click on Add/Remove Products
+  * Click on the ZipFileTransport check box, and then click  on the install button below.
+
+To add this Product to a new site:
+  * Navigate to the ZMI
+  * Use the drop down list to Add a new Plone Site
+  * Select the ZipFileTransport Extension Profile
+  * Click Add Plone Site

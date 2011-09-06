@@ -1,0 +1,221 @@
+8
+
+dir
+244097
+https://svn.plone.org/svn/collective/collective.zipfiletransport/trunk/collective/zipfiletransport
+https://svn.plone.org/svn/collective
+
+
+
+2011-06-17T23:07:12.999786Z
+241103
+erico_andrei
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+db7f04ef-aaf3-0310-a811-c281ed44c4ad
+
+i18n
+dir
+
+tool.gif
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+0c4d34a967d579e0a638a1d3f570c5aa
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+has-props
+
+locales
+dir
+
+profiles
+dir
+
+browser
+dir
+
+INSTALL.txt
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+974d54f20404b200e35f13b00cce175e
+2010-05-27T17:12:13.102979Z
+118249
+davidray
+
+configure.zcml
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+7c17b5680d4d94666d14dd12b23ecd85
+2011-06-17T23:06:20.926421Z
+241102
+erico_andrei
+
+__init__.py
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+3b6e704b260c9ed7f3696b55395712e6
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+LICENSE.ZPL
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+eac32c853d9ecf7c27ca960c50c1bd3e
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+skins
+dir
+
+config.py
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+ad4cac3f77556cf383b59375020eecb8
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+Extensions
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+b803d479ff3bab1dad53e67ee2093b17
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+tests
+dir
+
+version.txt
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+df5907c603da0bf02e8ba86ae07aa42b
+2010-05-27T17:12:13.102979Z
+118249
+davidray
+
+LICENSE.GPL
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+91f8d212f9efcd12ab44c9e6d6551110
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+overrides.zcml
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+52442dacd9b3d531fa30ecfc8351cda9
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+interfaces.py
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+ee56e45fa5bc03589c7d3cfc0a851117
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+schemas.py
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+a66e2295327785a158a687891e2ab2c0
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+utilities
+dir
+
+README.txt
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+34d32b91db1e0194b2dba045809a5e6d
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+refresh.txt
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+

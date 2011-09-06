@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/collective/!svn/ver/236029/collective.zipfiletransport/trunk/collective/zipfiletransport/tests
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/tests/base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/tests/__init__.py
+END
+test_utility.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/collective/!svn/ver/236029/collective.zipfiletransport/trunk/collective/zipfiletransport/tests/test_utility.py
+END
+test_folder.zip
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/tests/test_folder.zip
+END

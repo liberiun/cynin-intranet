@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/collective/!svn/ver/241103/collective.zipfiletransport/trunk/collective/zipfiletransport
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/LICENSE.txt
+END
+tool.gif
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/tool.gif
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/collective/!svn/ver/118249/collective.zipfiletransport/trunk/collective/zipfiletransport/version.txt
+END
+LICENSE.GPL
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/LICENSE.GPL
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/collective/!svn/ver/118249/collective.zipfiletransport/trunk/collective/zipfiletransport/INSTALL.txt
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/collective/!svn/ver/241102/collective.zipfiletransport/trunk/collective/zipfiletransport/configure.zcml
+END
+LICENSE.ZPL
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/LICENSE.ZPL
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/__init__.py
+END
+overrides.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/overrides.zcml
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/interfaces.py
+END
+schemas.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/schemas.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/README.txt
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/config.py
+END
+refresh.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/refresh.txt
+END

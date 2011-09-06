@@ -1,0 +1,124 @@
+Metadata-Version: 1.0
+Name: collective.zipfiletransport
+Version: 2.2.2dev-r241104
+Summary: This tool is used to import and export zip files.
+Home-page: http://plone.org/products/collective.zipfiletransport
+Author: enPraxis
+Author-email: info@enpraxis.net
+License: GPL
+Description: ZipFileTransport Tool
+        =====================
+        
+          This tool is used to import and export zip files.
+        
+        Installation
+        ------------
+        
+          For full installation instructions see the "INSTALL.txt" file.
+        
+        Features
+        --------
+        
+          * Import of the file system objects (within zipfile) into Plone objects
+        
+          * Export of content objects to a zip file.
+          
+          * Adds two action buttons (import/export) to the bottom of folder_contents view.
+          
+          * Custom settings for creating your own created content types.
+        
+        Requires
+        --------
+        
+          * Plone 3.0.0 and greater
+        
+          * Zope 2.10.4 and greater
+        
+        
+        How to run the tests for this egg (Unix):
+        -----------------------------------------
+        
+        *Plone 3*
+        
+        Make sure you are using Python-2.4.*
+        
+        Check the egg trunk out into a directory:
+        
+        svn co https://svn.plone.org/svn/collective/collective.zipfiletransport/trunk collective.zipfiletransport
+        
+        Download bootstrap.py and run it:
+        
+        wget http://svn.zope.org/*checkout*/zc.buildout/trunk/bootstrap/bootstrap.py
+        
+        python bootstrap.py -c test-plone-3.3.x.cfg
+        
+        Run the buildout:
+        
+        ./bin/buildout -vc test-plone-3.3.x.cfg
+        
+        Now run the tests::
+        
+        ./bin/test -s collective.zipfiletransport
+        
+        
+        
+        
+        
+        
+        
+        
+        Changelog
+        =========
+        
+        2.2.3
+        ------
+        
+          * Added Brazilian Portuguese translation [agnogueira]
+          * Added Plone 4.1.x compatibility [erico_andrei]
+        
+        2.2.2
+        -----
+        
+          * Added unit tests [jcbrand]
+          * Fixed a bug causing existing files to always be overridden [jcbrand]
+          * Added Plone 4 compatibility [jcbrand]
+          * Added default workflows for Image and File [jcbrand]
+          * Register the utility via zcml and not via an import step [jcbrand]
+        
+        2.2.1
+        -----
+        
+          * Minor documentation changes
+          * Repackaging; bad egg (missing docs folder)
+        
+        2.2.0
+        -----
+        
+          * Added German translation
+          * Added import/export support for handling filenames/content with unicode characters
+          * Added folder_contents override to show import button in empty folder
+        
+        2.1.3
+        -----
+        
+          * Added French translation
+        
+        2.1.0 - Unreleased
+        ------------------
+        
+          * Initial release
+        
+        Contributors
+        ------------
+         - Brent Lambert 
+         - David Ray 
+         - Jon Thomas
+         - JC Brand 
+         - Cillian de Roiste 
+        
+        
+Keywords: zipfile bulk upload
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

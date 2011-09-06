@@ -1,0 +1,112 @@
+8
+
+dir
+244097
+https://svn.plone.org/svn/collective/collective.zipfiletransport/trunk/collective/zipfiletransport/locales
+https://svn.plone.org/svn/collective
+
+
+
+2011-06-16T19:35:41.428457Z
+241007
+andren
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+db7f04ef-aaf3-0310-a811-c281ed44c4ad
+
+zh-cn
+dir
+
+ZipFileTransport.pot
+file
+
+
+
+
+2011-09-02T20:40:25.000000Z
+3fb16eaf7d340162fffa46d6f1e92a23
+2010-04-16T11:18:42.360207Z
+115471
+jcbrand
+
+zh
+dir
+
+zh-hk
+dir
+
+ca
+dir
+
+pt
+dir
+
+pt-br
+dir
+
+tr
+dir
+
+af
+dir
+
+ru
+dir
+
+de
+dir
+
+ja
+dir
+
+bn
+dir
+
+hi
+dir
+
+ne
+dir
+
+en
+dir
+
+ar
+dir
+
+fr
+dir
+
+es
+dir
+
+nl
+dir
+
+ko
+dir
+
+zh-tw
+dir
+
+it
+dir
+
+hu
+dir
+
+vi
+dir
+

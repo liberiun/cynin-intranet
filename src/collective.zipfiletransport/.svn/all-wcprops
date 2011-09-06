@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/collective/!svn/ver/241104/collective.zipfiletransport/trunk
+END
+test-plone-3.3.x.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/collective/!svn/ver/115476/collective.zipfiletransport/trunk/test-plone-3.3.x.cfg
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/collective/!svn/ver/118253/collective.zipfiletransport/trunk/setup.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/collective/!svn/ver/113693/collective.zipfiletransport/trunk/MANIFEST.in
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/collective/!svn/ver/118254/collective.zipfiletransport/trunk/README.txt
+END
+test-plone-4.0.x.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/collective/!svn/ver/115476/collective.zipfiletransport/trunk/test-plone-4.0.x.cfg
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/collective/!svn/ver/74031/collective.zipfiletransport/trunk/setup.cfg
+END
+test-plone-4.1.x.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/collective/!svn/ver/241096/collective.zipfiletransport/trunk/test-plone-4.1.x.cfg
+END

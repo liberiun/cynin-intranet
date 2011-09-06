@@ -1,0 +1,41 @@
+Changelog
+=========
+
+2.2.3
+------
+
+  * Added Brazilian Portuguese translation [agnogueira]
+  * Added Plone 4.1.x compatibility [erico_andrei]
+
+2.2.2
+-----
+
+  * Added unit tests [jcbrand]
+  * Fixed a bug causing existing files to always be overridden [jcbrand]
+  * Added Plone 4 compatibility [jcbrand]
+  * Added default workflows for Image and File [jcbrand]
+  * Register the utility via zcml and not via an import step [jcbrand]
+
+2.2.1
+-----
+
+  * Minor documentation changes
+  * Repackaging; bad egg (missing docs folder)
+
+2.2.0
+-----
+
+  * Added German translation
+  * Added import/export support for handling filenames/content with unicode characters
+  * Added folder_contents override to show import button in empty folder
+
+2.1.3
+-----
+
+  * Added French translation
+
+2.1.0 - Unreleased
+------------------
+
+  * Initial release
+

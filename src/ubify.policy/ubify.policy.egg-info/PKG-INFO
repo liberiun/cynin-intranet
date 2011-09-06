@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: ubify.policy
+Version: 3.1.3
+Summary: The main policy of Ubify package
+Home-page: http://www.cynapse.com
+Author: Cynapse
+Author-email: support@cynapse.com
+License: GPL
+Description: Controls all deployment and dependency related policies for inclusion and exclusion, preconfiguration, defaults, etc.
+Keywords: ubify policy
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Framework :: Zope2
+Classifier: Framework :: Zope3
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

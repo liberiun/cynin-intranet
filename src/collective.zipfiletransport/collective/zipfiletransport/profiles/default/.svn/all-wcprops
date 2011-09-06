@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/profiles/default
+END
+actions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/profiles/default/actions.xml
+END
+controlpanel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/profiles/default/controlpanel.xml
+END
+skins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/profiles/default/skins.xml
+END
+actionicons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/profiles/default/actionicons.xml
+END
+propertiestool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/profiles/default/propertiestool.xml
+END
+workflows.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/profiles/default/workflows.xml
+END

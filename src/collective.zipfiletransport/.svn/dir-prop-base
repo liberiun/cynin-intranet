@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 21
+*egg-info
+dist
+build
+
+K 13
+svn:mergeinfo
+V 165
+/collective.zipfiletransport/branches/jcbrand_workflow_and_plone4:115123-115403
+/collective.zipfiletransport/branches/jcbrand_workflow_and_plone4/trunk:115123-115403
+END

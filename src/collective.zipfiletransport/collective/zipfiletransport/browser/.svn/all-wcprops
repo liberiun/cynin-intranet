@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/collective/!svn/ver/241103/collective.zipfiletransport/trunk/collective/zipfiletransport/browser
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/collective/!svn/ver/241103/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/common.py
+END
+foldercontents.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/foldercontents.py
+END
+zipimport.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/collective/!svn/ver/241103/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/zipimport.py
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/__init__.py
+END
+export_widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/export_widget.pt
+END
+zipfiletransportprefs.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/zipfiletransportprefs.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/interfaces.py
+END
+foldercontents.pt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/foldercontents.pt
+END
+zipexport.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/collective/!svn/ver/241103/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/zipexport.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/browser/widgets.py
+END

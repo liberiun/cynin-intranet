@@ -1,0 +1,27 @@
+Metadata-Version: 1.0
+Name: ubify.ffxmpp
+Version: 1.0dev
+Summary: Provides support to firefox xmpp client
+Home-page: http://www.cynapse.com
+Author: Cynapse
+Author-email: devel@cynapse.com
+License: GPLv3 with attributions
+Description: Introduction
+        ============
+        
+        Provides xmlrpc and web interfaces to firefox integrated xmpp plugin
+        
+        Changelog
+        =========
+        
+        1.0 - Unreleased
+        ----------------
+        
+        * Initial release
+        
+        
+Keywords: plone xmpp firefox cynin
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

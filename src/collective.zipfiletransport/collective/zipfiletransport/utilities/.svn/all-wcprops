@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/collective/!svn/ver/236030/collective.zipfiletransport/trunk/collective/zipfiletransport/utilities
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/utilities/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/utilities/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/collective/!svn/ver/236030/collective.zipfiletransport/trunk/collective/zipfiletransport/utilities/utils.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/collective/!svn/ver/115471/collective.zipfiletransport/trunk/collective/zipfiletransport/utilities/interfaces.py
+END
