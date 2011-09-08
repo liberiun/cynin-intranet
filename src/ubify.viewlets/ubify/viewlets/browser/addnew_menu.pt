@@ -78,7 +78,8 @@ Mumbai-400064, India
                     <a class="addselector" tal:attributes="rel python:action['id'];href string:${view/contextualurl}/createObject?type_name=${action/id}">
                         <img alt="" src=""
                              tal:condition="action/icon"
-                             tal:attributes="src action/icon; alt action/title;"
+                             tal:attributes="src string:${portal_url}/folder_icon.png; 
+										     alt action/title;"
                              class="addnewtypeicon"/>
                         <span tal:content="action/title" class="addnewtypetitle"/>
                         <div tal:content="action/description" class="addnewtypedescription discreet" />
