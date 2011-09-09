@@ -118,6 +118,8 @@ Mumbai-400064, India
                                                         <img class="itemtypeicon" src="" tal:condition="python: item_type == 'File'" tal:attributes="src string:${portal_url}/file_icon.png"/>
                                                         <img class="itemtypeicon" src="" tal:condition="python: item_type == 'Video'" tal:attributes="src string:${portal_url}/icon-film.png"/>
                                                         <img class="itemtypeicon" src="" tal:condition="python: item_type == 'Audio'" tal:attributes="src string:${portal_url}/icon-sound.png"/>
+														<img class="itemtypeicon" src="" tal:condition="python: item_type == 'Blog Entry'" tal:attributes="src string:${portal_url}
+														/blog.png"/>
                                                         <tal:titlemacro metal:use-macro="here/title_list_macro/macros/title_macro" />
                                                         <div class="listitemdiscussrow" tal:attributes="id string:listitemdiscussrow${item_index}">
                                                         </div>
