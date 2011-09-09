@@ -38,13 +38,14 @@ Mumbai-400064, India
 </tal:comment>
 <tal:itemtype tal:define="portal_url here/portal_url;
                             typeiconname view/typeiconname;
+							icon view/object_icon;
                             typetitle view/typetitle;
                             parentNode python:context.getParentNode();
                             parentURL python:parentNode.absolute_url();
                             URLsuffix python:modules['ubify.cyninv2theme'].getListingTemplateForContextParent(context);
                             " i18n:domain="cynin">
     <div id="typeindicator" tal:condition="not:view/isaddscreen">
-        <img tal:attributes="src string:${portal_url}/${typeiconname};"/>
+        <img tal:attributes="src string:${portal_url}/${icon};"/>
         <tal:block tal:replace="typetitle"/>
     </div>
 </tal:itemtype>

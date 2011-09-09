@@ -53,6 +53,7 @@ class TypetitleViewlet(ViewletBase):
         typetool= getToolByName(self.context, 'portal_types')
         portal_title = portal_state.portal_title()
         object_title = context_state.object_title()
+        self.object_icon = self.context.icon
         object_typename = self.context.portal_type
         object_typeobj = typetool[object_typename]
         self.typeiconname = object_typeobj.icon_expr
